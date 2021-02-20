@@ -4,6 +4,10 @@ button {
   font-size: 20px;
 }
 
+#logo {
+  background-color: #FF0000;
+}
+
 img {
   text-align: center;
 }
