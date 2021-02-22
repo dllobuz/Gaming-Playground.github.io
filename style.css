@@ -4,6 +4,7 @@
   font-size: 20px;
   border: 1px solid #000000;
   background-color: #DDD;
+  outline: none;
 }
 
 #logo {
