@@ -13,5 +13,5 @@ menu[3].onclick = function() {
   window.location = "announcements.html";
 };
 menu[4].onclick = function() {
-  window.location = "atc.html";
+  window.location = "atf.html";
 };
