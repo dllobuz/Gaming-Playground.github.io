@@ -15,20 +15,3 @@
 body {
   margin: 0;
 }
-
-.announcements {
-  border: 1px solid #000000;
-  width: 50%;
-}
-
-.announcements:before {
-  padding: 12.5%;
-}
-
-.game-btn {
-  width: 12.5%;
-  font-size: 20px;
-  border: 1px solid #000000;
-  background-color: #FF0000;
-  color: #FFFFFF;
-}
