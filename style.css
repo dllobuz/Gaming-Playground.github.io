@@ -28,4 +28,7 @@ body {
 .game-btn {
   width: 12.5%;
   font-size: 20px;
+  border: 1px solid #000000;
+  background-color: #FF0000;
+  color: #FFFFFF;
 }
