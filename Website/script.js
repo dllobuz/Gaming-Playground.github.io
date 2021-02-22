@@ -1,5 +1,4 @@
 const menu = document.getElementsByClassName("menu");
-const gameBtn = document.getElementsByClassName("gameBtn");
 
 menu[0].onclick = function() {
   window.location = "Website/index.html";
