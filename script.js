@@ -1,17 +1,17 @@
 const menu = document.getElementsByClassName("menu");
 
 menu[0].onclick = function() {
-  window.location = "Website/index.html";
+  window.location = "index.html";
 };
 menu[1].onclick = function() {
-  window.location = "Website/games.html";
+  window.location = "games.html";
 };
 menu[2].onclick = function() {
-  window.location = "Website/contacts.html";
+  window.location = "contacts.html";
 };
 menu[3].onclick = function() {
-  window.location = "Website/announcements.html";
+  window.location = "announcements.html";
 };
 menu[4].onclick = function() {
-  window.location = "Website/atf.html";
+  window.location = "atf.html";
 };
