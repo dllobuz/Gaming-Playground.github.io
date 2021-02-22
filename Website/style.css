@@ -32,3 +32,8 @@ body {
   background-color: #FF0000;
   color: #FFFFFF;
 }
+
+body a {
+  font-size: 17.5px;
+  font-weight: bold;
+}
