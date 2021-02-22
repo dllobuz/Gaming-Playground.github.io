@@ -15,7 +15,3 @@ menu[3].onclick = function() {
 menu[4].onclick = function() {
   window.location = "Website/atf.html";
 };
-
-gameBtn[0].onclick = function() {
-  window.location = "Sealed in Stone/index.html"
-}
