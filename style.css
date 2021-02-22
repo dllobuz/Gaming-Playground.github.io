@@ -15,8 +15,9 @@ body {
 
 .announcements {
   border: 1px solid #000000;
+  width: 50%;
 }
 
-.announcements h3 {
+.announcements h5 {
   float: left;
 }
