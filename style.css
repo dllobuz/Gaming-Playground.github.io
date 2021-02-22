@@ -12,3 +12,11 @@
 body {
   margin: 0;
 }
+
+.announcements {
+  border: 1px solid #000000;
+}
+
+.announcements h3 {
+  float: left;
+}
