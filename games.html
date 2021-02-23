@@ -14,6 +14,12 @@
   <h2>Games</h2>
   <button class="gameBtn">Sealed in Stone</button>
 
-<script src="script.js"></script>
+<script src="script.js">
+  const gameBtn = document.getElementsByClassName("gameBtn");
+  
+  gameBtn.onclick = function() {
+    window.location = "Sealed in Stone/index.html";
+  }
+</script>
 </body>
 </html>
