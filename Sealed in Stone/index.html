@@ -12,7 +12,11 @@
   </style>
   
   <canvas id="game" width=640 height=480 style="background-color: #000000;"></canvas>
-  <a>Back to Games</a>
+  <a id="gameLink">Back to Games</a>
 
-  <script src="Sealed in Stone/game.js"></script>
+  <script src="Sealed in Stone/game.js">
+    document.getElementById("gameLink").onclick = function() {
+      window.location = "index.html";
+    }
+  </script>
 </html>
