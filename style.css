@@ -8,6 +8,10 @@
   outline: none;
 }
 
+h2 {
+  color: #0F0;
+}
+
 #logo {
   background-color: #FF0000;
   text-align: center;
