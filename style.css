@@ -2,8 +2,9 @@
   width: 20%;
   height: 55px;
   font-size: 20px;
-  border: 1px solid #000000;
-  background-color: #DDD;
+  border: 1px solid #0F0;
+  background-color: #000;
+  color: #0F0;
   outline: none;
 }
 
@@ -17,20 +18,16 @@ body {
 }
 
 .announcements {
-  border: 1px solid #000000;
+  border: 1px solid #0F0;
   width: 50%;
-}
-
-.announcements:before {
-  padding: 12.5%;
 }
 
 .gameBtn {
   width: 12.5%;
   font-size: 20px;
-  border: 1px solid #000000;
-  background-color: #FF0000;
-  color: #FFFFFF;
+  border: 1px solid #0F0;
+  background-color: #000;
+  color: #0F0;
 }
 
 body a {
