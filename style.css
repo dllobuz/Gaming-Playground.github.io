@@ -2,13 +2,9 @@
   width: 19.9%;
   height: 55px;
   font-size: 20px;
-  border: 1px solid #0F0;
-  background-color: #000;
+  border: 1px solid #000;
+  background-color: #DDD;
   outline: none;
-}
-
-h2, h4, .menu, .gameBtn, body a {
-  color: #0F0;
 }
 
 #logo {
@@ -18,19 +14,18 @@ h2, h4, .menu, .gameBtn, body a {
 
 body {
   margin: 0;
-  background-color: #000;
 }
 
 .announcements {
-  border: 1px solid #0F0;
+  border: 1px solid #000;
   width: 50%;
 }
 
 .gameBtn {
   width: 12.5%;
   font-size: 20px;
-  border: 1px solid #0F0;
-  background-color: #000;
+  border: 1px solid #000;
+  background-color: #DDD;
 }
 
 body a {
