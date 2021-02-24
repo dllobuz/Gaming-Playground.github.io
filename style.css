@@ -7,9 +7,12 @@
   outline: none;
 }
 
+table, #logo {
+  text-align: center;
+}
+
 #logo {
   background-color: #FF0000;
-  text-align: center;
 }
 
 body {
