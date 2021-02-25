@@ -2,8 +2,7 @@
   width: 20%;
   height: 55px;
   font-size: 20px;
-  border: 1px solid #000;
-  background-color: #DDD;
+  background-color: #9bbc0f;
   outline: none;
 }
 
@@ -12,23 +11,29 @@ table, #logo {
 }
 
 #logo {
-  background-color: #FF0000;
+  background-color: #8bac0f;
 }
 
 body {
   margin: 0;
 }
 
+.announcements, .gamebtn, body, #logo, .menu {
+  color: #0f380f;
+}
+
 .announcements {
-  border: 1px solid #000;
   width: 50%;
+}
+
+.gameBtn, .announcements, .menu {
+  border: 1px solid #0f380f;
 }
 
 .gameBtn {
   width: 12.5%;
   font-size: 20px;
-  border: 1px solid #000;
-  background-color: #DDD;
+  background-color: #9bbc0f;
 }
 
 body a {
