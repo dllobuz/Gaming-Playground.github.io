@@ -16,6 +16,7 @@ table, #logo {
 
 body {
   margin: 0;
+  background-color: #9bbc0f;
 }
 
 .announcements, .gamebtn, body, #logo, .menu {
